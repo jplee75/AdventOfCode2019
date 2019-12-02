@@ -1,0 +1,11 @@
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.exe
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.deps.json
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.runtimeconfig.json
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.runtimeconfig.dev.json
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.dll
+C:\Code\AdventOfCode2019\helloWorld\bin\Debug\netcoreapp3.0\helloWorld.pdb
+C:\Code\AdventOfCode2019\helloWorld\obj\Debug\netcoreapp3.0\helloWorld.csprojAssemblyReference.cache
+C:\Code\AdventOfCode2019\helloWorld\obj\Debug\netcoreapp3.0\helloWorld.AssemblyInfoInputs.cache
+C:\Code\AdventOfCode2019\helloWorld\obj\Debug\netcoreapp3.0\helloWorld.AssemblyInfo.cs
+C:\Code\AdventOfCode2019\helloWorld\obj\Debug\netcoreapp3.0\helloWorld.dll
+C:\Code\AdventOfCode2019\helloWorld\obj\Debug\netcoreapp3.0\helloWorld.pdb
