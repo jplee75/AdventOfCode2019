@@ -1,0 +1,11 @@
+C:\Code\AdventOfCode2019\Day2\Day2AoC\obj\Debug\netcoreapp3.0\Day2AoC.csprojAssemblyReference.cache
+C:\Code\AdventOfCode2019\Day2\Day2AoC\obj\Debug\netcoreapp3.0\Day2AoC.AssemblyInfoInputs.cache
+C:\Code\AdventOfCode2019\Day2\Day2AoC\obj\Debug\netcoreapp3.0\Day2AoC.AssemblyInfo.cs
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.exe
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.deps.json
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.runtimeconfig.json
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.runtimeconfig.dev.json
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.dll
+C:\Code\AdventOfCode2019\Day2\Day2AoC\bin\Debug\netcoreapp3.0\Day2AoC.pdb
+C:\Code\AdventOfCode2019\Day2\Day2AoC\obj\Debug\netcoreapp3.0\Day2AoC.dll
+C:\Code\AdventOfCode2019\Day2\Day2AoC\obj\Debug\netcoreapp3.0\Day2AoC.pdb
